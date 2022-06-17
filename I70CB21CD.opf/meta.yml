@@ -1,0 +1,41 @@
+id: I70CB21CD
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-17T12:20:50.905153'
+last_modified: '2022-06-17T12:20:50.905159'
+parser: null
+source_metadata:
+  title: Karchak Series
+  language: bo
+  description: Texts belonging to the genre of karchak (dkar chag), which corresponds
+    to the English terms register, catalogue, index, inventory and table of contents
+    and can provide details of (among other things) collected writings, libraries,
+    stūpas, temples and sacred places.
+  volume:
+    f0E70:
+      title: 'Repository of Every Form of Dharma That Might Be Wished For: A Catalogue
+        to the Published Miscellaneous Writings of the Venerable Guru Jamyang Chökyi
+        Lodrö'
+      base_file: f0E70.txt
+      order: 1
+      parent: Catalogues
+    fD080:
+      title: 'Precise Discernment of Dharmas: A Catalogue of the Complete Collected
+        Works of the Omniscient King of Dharma, Rigdzin Jigme Lingpa'
+      base_file: fD080.txt
+      order: 2
+      parent: Catalogues
+    fFE78:
+      title: 'Instilling Confidence and Trust: An Inventory of the Sacred Contents
+        of the Jarung Khashor Stūpa'
+      base_file: fFE78.txt
+      order: 3
+      parent: Stūpa Inventories
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
